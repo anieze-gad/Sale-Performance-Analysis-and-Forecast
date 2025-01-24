@@ -47,8 +47,8 @@ Open Sales Performance Analysis and Forecasting.ipynb to explore the analysis an
 
 # 👨‍💻 Author
 ### **Anieze Ifesinachi Gad**
-📧 Email: aniezegad7@gmail.com
-🔗 GitHub: anieze-gad
+📧 Email: aniezegad7@gmail.com 
+🔗 GitHub: [anieze-gad](https://github.com/anieze-gad)
 
 # 📜 License
 This project is licensed under the MIT License.
