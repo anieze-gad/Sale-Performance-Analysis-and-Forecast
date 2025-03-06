@@ -1,7 +1,7 @@
 # 📊 Sales Performance Analysis and Forecast
 
 ## 📌 Project Overview
-This project analyzes historical sales data to identify trends and forecast future sales using **Python**. It includes **data preprocessing, exploratory data analysis(EDA), Visualization, and time-series forecasting** to provide actionable business insights.
+This project analyzes historical sales data to identify trends and forecast future sales using **Python**. It includes **data preprocessing, exploratory data analysis(EDA), Customer Lifetime Value (CLV) Prediction,RFM Analysis,Cohort Analysis,Cohort Analysis,Univariate Analysis, Visualization, time-series analysis and forecasting** to provide actionable business insights.
 
 ## 📂 Dataset
 - **Source:** [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
